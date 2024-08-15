@@ -35,7 +35,7 @@ namespace WinFormsApp1
                     LabelEstado.Text = "Formulario enviado correctamente.";
                     LabelEstado.ForeColor = Color.Green;
 
-                    // Limpiar campos
+                  
                     TextBoxNombre.Clear();
                     TextBoxCorreo.Clear();
                     TextBoxMensaje.Clear();
